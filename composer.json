@@ -1,8 +1,8 @@
 {
-  "name": "everyday/php-quill-delta",
+  "name": "xainjatt/php-quill-delta",
   "type": "library",
   "description": "PHP library with types for representing quill deltas",
-  "homepage": "https://github.com/Everyday-AS/php-quill-delta",
+  "homepage": "https://github.com/XAINJATT/php-quill-delta",
   "keywords": [
     "quill",
     "delta"
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=8.0",
+    "php": ">=7.4",
     "ext-json": "*"
   },
   "autoload": {
