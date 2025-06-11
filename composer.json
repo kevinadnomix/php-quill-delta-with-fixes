@@ -1,5 +1,5 @@
 {
-  "name": "xainjatt/php-quill-delta",
+  "name": "kevinadnomix/php-quill-delta-with-fixes",
   "type": "library",
   "description": "PHP library with types for representing quill deltas",
   "homepage": "https://github.com/XAINJATT/php-quill-delta",
